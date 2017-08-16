@@ -1,5 +1,7 @@
 # comp-lib
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/prashantsharma/comp-lib.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 To install this library, run:
